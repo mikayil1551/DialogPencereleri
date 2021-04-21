@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.exe.config
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.exe
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\bin\Debug\DialogPencereleri.pdb
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.exe
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.pdb
+C:\Users\User\Desktop\YenidenC#\4.20.2021\DialogPencereleri\DialogPencereleri\obj\Debug\DialogPencereleri.csprojResolveAssemblyReference.cache
